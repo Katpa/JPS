@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\SBAuser\Desktop\JPS\x64\Debug\DX2D_2204.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\SBAuser\Desktop\JPS\x64\Debug\PixelEffect.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\SBAuser\Desktop\JPS\x64\Debug\PixelMulti.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\SBAuser\Desktop\JPS\x64\Debug\PixelCollider.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\SBAuser\Desktop\JPS\x64\Debug\PixelColor.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\SBAuser\Desktop\JPS\x64\Debug\PixelFilter.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\SBAuser\Desktop\JPS\x64\Debug\PixelGrayscale.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\SBAuser\Desktop\JPS\x64\Debug\PixelOutline.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\SBAuser\Desktop\JPS\x64\Debug\PixelProgressBar.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\SBAuser\Desktop\JPS\x64\Debug\PixelUV.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\SBAuser\Desktop\JPS\x64\Debug\Tutorial.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\SBAuser\Desktop\JPS\x64\Debug\VertexCollider.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\SBAuser\Desktop\JPS\x64\Debug\VertexColor.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\SBAuser\Desktop\JPS\x64\Debug\VertexUV.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
