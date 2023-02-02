@@ -155,6 +155,7 @@
     <ClInclude Include="Algorithm\DNode.h" />
     <ClInclude Include="Algorithm\Heap.h" />
     <ClInclude Include="Algorithm\JPS.h" />
+    <ClInclude Include="Algorithm\JPSBitArray.h" />
     <ClInclude Include="Algorithm\JPSHeap.h" />
     <ClInclude Include="Algorithm\JPSNode.h" />
     <ClInclude Include="Algorithm\Node.h" />
@@ -218,6 +219,7 @@
     <ClCompile Include="Algorithm\DNode.cpp" />
     <ClCompile Include="Algorithm\Heap.cpp" />
     <ClCompile Include="Algorithm\JPS.cpp" />
+    <ClCompile Include="Algorithm\JPSBitArray.cpp" />
     <ClCompile Include="Algorithm\JPSHeap.cpp" />
     <ClCompile Include="Algorithm\JPSNode.cpp" />
     <ClCompile Include="Algorithm\Node.cpp" />

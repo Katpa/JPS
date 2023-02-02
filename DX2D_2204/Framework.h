@@ -126,6 +126,7 @@ using namespace Utility;
 //JPS
 #include "Algorithm/JPSNode.h"
 #include "Algorithm/JPSHeap.h"
+#include "Algorithm/JPSBitArray.h"
 #include "Algorithm/JPS.h"
 
 //Object Header
